@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310415138709",
+    "project_id": "beaming-courage-388206",
+    "storage_bucket": "beaming-courage-388206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310415138709:android:c7d1d88f2d56d8f6c1e09c",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz6SH5cYWwBsVY9mjc_MVog1hOkRE84Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
